@@ -1,0 +1,7 @@
+{
+  "name": "InspectionReport",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
