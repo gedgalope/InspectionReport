@@ -1,22 +1,17 @@
 <template>
   <ion-page>
-    <div> home
-    </div>
+    <div class="container">print</div>
   </ion-page>
 </template>
 
-<script lang="ts">
-import { IonPage} from "@ionic/vue";
+<script>
 import { defineComponent } from "vue";
+import { IonPage } from "@ionic/vue";
 
 export default defineComponent({
-  name: "Home",
+  name: "Print",
   components: {
     IonPage,
   },
 });
 </script>
-
-<style scoped>
-
-</style>
